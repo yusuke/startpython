@@ -23,9 +23,12 @@ from helloworld import helloWorld
 # いろはにほへと
 # いろはにほへと
 # いろはにほへと
-print "Hello world"
+def helloStapy():
+    print "Hello stapy"
 
-# いろはにほへと
+print "Hello world"
+helloStapy()
+
 # いろはにほへと
 # いろはにほへと
 # いろはにほへと
