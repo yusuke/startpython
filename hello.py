@@ -26,7 +26,7 @@ from helloworld import helloWorld
 def helloStapy():
     print "Hello stapy"
 
-print "Hello world"
+helloWorld()
 helloStapy()
 
 # いろはにほへと
